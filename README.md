@@ -1,7 +1,13 @@
 # Velocity-Plugins
 
-## BetterSyntax 
+## Plugins
+ - ### [BetterSyntax](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/BetterSyntax)
+    > Lets you edit Syntax Highlighting with an easy interface and adds some useful buttons.
+ - ### [NoCanaryLinks](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoCanaryLinks)
+    > Turns canary.discord/com links into discord.com links
+ - ### [NoReplyMention](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoReplyMentions)
+    > Disables Reply pings by default
 
-Adds themeble codeblocks and some utility buttons.
+___
 
-<img width="600" src="https://raw.githubusercontent.com/TheCommieAxolotl/BetterDiscord-Stuff/main/BetterSyntax/assets/BetterSyntax.PNG" />
+Made with ❤️ by [TheCommieAxolotl](github.com/TheCommieAxolotl)
