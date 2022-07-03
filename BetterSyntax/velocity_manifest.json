@@ -5,7 +5,6 @@
     "version": "2.0.2",
     "authorId": "538487970408300544",
     "invite": "5BSWtSM3XU",
-    "license": "MIT",
-    "source": "https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/BetterSyntax",
+    "license": "MIT",    "source": "https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/BetterSyntax/index.js",
     "main": "./index.js"
 }
