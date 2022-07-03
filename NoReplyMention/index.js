@@ -1,11 +1,3 @@
-/**
- * @name NoReplyMention
- * @description Port of NoReplyMention by somebody1234 to Velocity
- * @author TheCommieAxolotl
- * @authorId 538487970408300544
- * @version 0.0.1
- */
-
 const GLOBAL_NAME = "NoReplyMention";
 
 const { showToast, WebpackModules, Patcher } = VApi;
