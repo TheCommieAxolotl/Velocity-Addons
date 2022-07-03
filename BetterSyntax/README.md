@@ -9,4 +9,4 @@ Adds themeble codeblocks and some utility buttons.
 
 [Velocity-Plugins](https://github.com/TheCommieAxolotl/Velocity-Plugins) / [BetterSyntax](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/BetterSyntax)
 
-Made with ❤️ by [TheCommieAxolotl](github.com/TheCommieAxolotl)
+Made with ❤️ by [TheCommieAxolotl](https://github.com/TheCommieAxolotl)

@@ -10,4 +10,4 @@
 
 ___
 
-Made with ❤️ by [TheCommieAxolotl](github.com/TheCommieAxolotl)
+Made with ❤️ by [TheCommieAxolotl](https://github.com/TheCommieAxolotl)
