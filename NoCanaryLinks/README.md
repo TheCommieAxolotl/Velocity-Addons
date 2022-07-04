@@ -1,5 +1,5 @@
 # NoCanaryLinks
-Port of CanaryLinks by bep to Velocity.
+Turns canary.discord.com links into discord.com links.
 
 ---
 
