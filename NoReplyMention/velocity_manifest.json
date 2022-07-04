@@ -1,4 +1,5 @@
 {
+    "manifest-version": 1,
     "name": "NoReplyMention",
     "author": "TheCommieAxolotl",
     "description": "Port of NoReplyMention by somebody1234 to Velocity",
