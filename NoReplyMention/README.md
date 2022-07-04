@@ -1,6 +1,7 @@
 # NoReplyMention
 Disables Reply pings by default.
 
+Port of NoReplyMention by somebody1234 to Velocity.
 
 ---
 
