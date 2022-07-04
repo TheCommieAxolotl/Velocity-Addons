@@ -1,7 +1,7 @@
 {
     "manifest-version": 1,
     "name": "NoCanaryLinks",
-    "description": "Port of CanaryLinks by bep to Velocity.",
+    "description": "Turns canary.discord.com links into discord.com links.",
     "author": "TheCommieAxolotl",
     "authorId": "538487970408300544",
     "version": "1.0.0",
