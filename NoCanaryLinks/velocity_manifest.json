@@ -1,10 +1,12 @@
 {
     "manifest-version": 1,
     "name": "NoCanaryLinks",
-    "description": "Port of CanaryLinks by bep to Velocity.",
     "author": "TheCommieAxolotl",
-    "authorId": "538487970408300544",
+    "description": "Turns canary.discord.com links into discord.com links.",
     "version": "1.0.0",
+    "authorId": "538487970408300544",
+    "invite": "5BSWtSM3XU",
+    "license": "MIT",
     "source": "https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoCanaryLinks/index.js",
     "main": "./index.js"
 }

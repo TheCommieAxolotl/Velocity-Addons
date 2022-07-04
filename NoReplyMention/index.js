@@ -7,7 +7,7 @@ module.exports = {
         config = {
             info: {
                 name: GLOBAL_NAME,
-                description: "Port of NoReplyMention to Velocity",
+                description: "Disables Reply pings by default.",
             },
             author: "TheCommieAxolotl",
             authorId: "538487970408300544",
