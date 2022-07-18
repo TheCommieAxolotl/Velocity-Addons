@@ -5,7 +5,7 @@
     > Lets you edit Syntax Highlighting with an easy interface and adds some useful buttons.
  - ### [NoCanaryLinks](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoCanaryLinks)
     > Turns canary.discord.com links into discord.com links.
- - ### [NoReplyMention](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoReplyMentions)
+ - ### [NoReplyMention](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoReplyMention)
     > Disables Reply pings by default.
 
 ___
