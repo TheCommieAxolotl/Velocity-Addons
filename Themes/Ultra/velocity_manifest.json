@@ -1,0 +1,12 @@
+{
+    "name": "Ultra",
+    "description": "A Smooth, Black theme",
+    "author": {
+        "name": "TheCommieAxolotl",
+        "id": "538487970408300544"
+    },
+    "version": "1.0.6",
+    "license": "MIT",
+    "main": "index.css",
+    "accent": "#6e6af6"
+}
