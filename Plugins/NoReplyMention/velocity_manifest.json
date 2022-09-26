@@ -1,7 +1,8 @@
 {
+    "manifest-version": 1,
     "name": "NoReplyMention",
     "author": "TheCommieAxolotl",
-    "description": "Port of NoReplyMention by somebody1234 to Velocity",
+    "description": "Disables Reply pings by default.",
     "version": "0.0.1",
     "authorId": "538487970408300544",
     "invite": "5BSWtSM3XU",

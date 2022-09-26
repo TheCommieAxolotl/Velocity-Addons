@@ -1,4 +1,5 @@
 {
+    "manifest-version": 1,
     "name": "BetterSyntax",
     "author": "TheCommieAxolotl",
     "description": "Lets you edit Syntax Highlighting with an easy interface and adds some useful buttons.",

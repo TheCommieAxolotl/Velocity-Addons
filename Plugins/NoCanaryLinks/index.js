@@ -15,7 +15,7 @@ module.exports = {
         config = {
             info: {
                 name: "NoCanaryLinks",
-                description: "Test",
+                description: "Turns canary.discord.com links into discord.com links.",
             },
             author: "TheCommieAxolotl",
             authorId: "538487970408300544",
