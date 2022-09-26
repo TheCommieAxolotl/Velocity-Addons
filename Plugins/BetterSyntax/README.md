@@ -7,6 +7,6 @@ Adds themeble codeblocks and some utility buttons.
 
 ---
 
-[Velocity-Plugins](https://github.com/TheCommieAxolotl/Velocity-Plugins) / [BetterSyntax](https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/BetterSyntax)
+[Plugins](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins) / [BetterSyntax](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/BetterSyntax)
 
 Made with ❤️ by [TheCommieAxolotl](https://github.com/TheCommieAxolotl)

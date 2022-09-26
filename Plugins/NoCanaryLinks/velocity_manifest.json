@@ -5,6 +5,6 @@
     "author": "TheCommieAxolotl",
     "authorId": "538487970408300544",
     "version": "1.0.0",
-    "source": "https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/NoCanaryLinks/index.js",
+    "source": "https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/NoCanaryLinks/index.js",
     "main": "./index.js"
 }

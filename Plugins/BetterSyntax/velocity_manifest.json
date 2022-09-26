@@ -6,6 +6,6 @@
     "authorId": "538487970408300544",
     "invite": "5BSWtSM3XU",
     "license": "MIT",
-    "source": "https://github.com/TheCommieAxolotl/Velocity-Plugins/tree/main/BetterSyntax/index.js",
+    "source": "https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/BetterSyntax/index.js",
     "main": "./index.js"
 }
