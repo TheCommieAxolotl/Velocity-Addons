@@ -11,5 +11,6 @@
         "website": "https://thecommieaxolotl.netlify.app/",
         "donate": "https://github.com/sponsors/thecommieaxolotl",
         "invite": "g2KnUw7u7N"
-    }
+    },
+    "main": "index.css"
 }
