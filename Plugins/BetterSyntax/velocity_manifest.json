@@ -1,12 +1,12 @@
 {
-    "manifest-version": 1,
     "name": "BetterSyntax",
-    "author": "TheCommieAxolotl",
-    "description": "Lets you edit Syntax Highlighting with an easy interface and adds some useful buttons.",
-    "version": "2.0.2",
-    "authorId": "538487970408300544",
-    "invite": "5BSWtSM3XU",
+    "description": "Extend Discord's bland codeblocks...",
+    "author": {
+        "name": "TheCommieAxolotl",
+        "id": "538487970408300544"
+    },
+    "version": "3.0.0",
     "license": "MIT",
-    "source": "https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/BetterSyntax/index.js",
-    "main": "./index.js"
+    "main": "index.js",
+    "updateURL": "https://raw.githubusercontent.com/TheCommieAxolotl/Velocity-Addons/main/Plugins/BetterSyntax/"
 }
