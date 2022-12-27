@@ -16,7 +16,7 @@ module.exports = class extends Velocity.Plugin {
         Patcher.after(codeBlock, "react", ([props], ret) => {
             if (props.type !== "codeBlock") return;
 
-            Patcher.after(ret.props, "render", (nestedProps, res) => {
+            Patcher.after(ret.props.children, "type", (nestedProps, res) => {
                 res.props.children = [
                     res.props.children,
                     <div className="bettersyntax-info">
