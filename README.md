@@ -3,6 +3,8 @@
 ## Plugins
  - ### [BetterSyntax](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/BetterSyntax)
     > Lets you edit Syntax Highlighting with an easy interface and adds some useful buttons.
+- ### [Timezones](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/Timezones)
+    > Allows you to display other Users' local times.
  - ### [NoCanaryLinks](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/NoCanaryLinks)
     > Turns canary.discord.com links into discord.com links.
  - ### [NoReplyMention](https://github.com/TheCommieAxolotl/Velocity-Addons/tree/main/Plugins/NoReplyMentions)
