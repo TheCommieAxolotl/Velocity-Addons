@@ -1,0 +1,11 @@
+{
+    "name": "Timezones",
+    "version": "1.0.0",
+    "description": "Allows you to display other Users' local times.",
+    "author": {
+        "name": "TheCommieAxolotl",
+        "id": "538487970408300544"
+    },
+    "main": "index.js",
+    "license": "MIT"
+}
